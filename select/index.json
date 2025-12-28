@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "D.D.D.D.",
+  "base_artist": "(K)NoW_NAME",
+  "createdAt": "2025-12-28T05:32:31.466133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "D.D.D (D.D.D)",
+      "artist": "THE BOYZ",
+      "has_synced": true,
+      "path": "select/01_D.D.D_(D.D.D)_THE_BOYZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D.D.D.D.",
+      "artist": "(K)NoW_NAME",
+      "has_synced": true,
+      "path": "select/02_D.D.D.D._(K)NoW_NAME.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D.D.D.D.",
+      "artist": "(K)NoW_NAME",
+      "has_synced": true,
+      "path": "select/03_D.D.D.D._(K)NoW_NAME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "D.D.D.D.",
+      "artist": "(K)NoW_NAME",
+      "has_synced": true,
+      "path": "select/04_D.D.D.D._(K)NoW_NAME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "D-D-D-D-D-Dementia",
+      "artist": "The Blood Arm",
+      "has_synced": false,
+      "path": "select/05_D-D-D-D-D-Dementia_The_Blood_Arm.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Втекти/Гроші/D-d-d-d-",
+      "artist": "Максим Тощо",
+      "has_synced": true,
+      "path": "select/06_Втекти_Гроші_D-d-d-d-_Максим_Тощо.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "D-D-D-D-Divorcee",
+      "artist": "Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/07_D-D-D-D-Divorcee_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "D*D*D*D (Dum-dum dollar djungel)",
+      "artist": "Imperiet",
+      "has_synced": false,
+      "path": "select/08_D_D_D_D_(Dum-dum_dollar_djungel)_Imperiet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "D-D-D-D-Divorcee",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/09_D-D-D-D-Divorcee_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "D-D-D-D Divorce",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/10_D-D-D-D_Divorce_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "D-D-D-D (Dum-Dum-Dollar-Djungel)",
+      "artist": "Imperiet",
+      "has_synced": false,
+      "path": "select/11_D-D-D-D_(Dum-Dum-Dollar-Djungel)_Imperiet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "D.D.D.D.",
+      "artist": "NIKIIE",
+      "has_synced": false,
+      "path": "select/pl_01_D.D.D.D._NIKIIE.txt"
+    }
+  ]
+}
